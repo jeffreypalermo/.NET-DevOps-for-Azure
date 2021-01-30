@@ -16,4 +16,4 @@ Jeffrey Palermo is the Chief Architect and CEO of [Clear Measure, Inc.](https://
 
 ## How to contribute
 
-The MS Word version of each chapter is available via git. If you'd like to contribute, please either contribute via discussions using GitHub Issues or send a pull request. For now, the manuscript is in MS Word. I haven't had luch laying out the features of the MS Word template using Markdown. The git repository is here https://github.com/jeffreypalermo/.NET-DevOps-for-Azure
+The MS Word version of each chapter is available via git. If you'd like to contribute, please either contribute via discussions using GitHub Issues or send a pull request. For now, the manuscript is in MS Word. I haven't had luck laying out the features of the MS Word template using Markdown. The git repository is here https://github.com/jeffreypalermo/.NET-DevOps-for-Azure
